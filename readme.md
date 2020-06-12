@@ -1,3 +1,6 @@
+https://www.eliostruyf.com/cypress-testing-sharepoint-solutions/
+https://www.eliostruyf.com/running-cypress-azure-devops-cross-browser-testing-solutions/
+
 # Cypress E2E testing for SharePoint solutions sample
  
 This is a sample project which you can use to start your E2E testing with Cypress for SharePoint.
